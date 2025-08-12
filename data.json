@@ -1,0 +1,56 @@
+[
+  {
+    "from": "Alice Johnson",
+    "fromEmail": "alice@example.com",
+    "to": "bob@example.com",
+    "cc": "",
+    "subject": "Welcome Email",
+    "body": "Hi Bob,\n\nWelcome to the email simulator app!\n\nBest,\nAlice",
+    "date": "2025-08-06T12:00:00.000Z"
+  },
+  {
+    "from": "Bob Smith",
+    "fromEmail": "bob@example.com",
+    "to": "bob@example.com",
+    "cc": "kp@ddvia.in",
+    "subject": "first mail",
+    "body": "Testing mail",
+    "date": "2025-08-07T07:03:33.542Z"
+  },
+  {
+    "from": "Manoj Kulkarni",
+    "fromEmail": "manoj.kulkarni@pnphcl.com",
+    "to": "prajal.tikar@pnphcl.com",
+    "cc": "dhanajay.chaudhari@pnphcl.com",
+    "subject": "Need help for Virtualisation",
+    "body": "Hi Prajal,\n\nYou worked on virtualised contact list so wanted to check what is the current state and from which Verse release it will be added in feature supported list?\n\nThanks,\nManoj Kulkarni",
+    "date": "2025-08-11T12:31:12.028Z"
+  },
+  {
+    "from": "Manoj Kulkarni",
+    "fromEmail": "manoj.kulkarni@pnphcl.com",
+    "to": "kandarpa@phphcl.com",
+    "cc": "",
+    "subject": "Safelinx connection issue",
+    "body": "Hi Kandarpa,\n\nFacing the issue for connecting to safelinx server 1. Can you look into the issue?\n\nThanks,\nManoj Kulkarni",
+    "date": "2025-08-11T12:44:38.803Z"
+  },
+  {
+    "from": "Manoj Kulkarni",
+    "fromEmail": "manoj.kulkarni@pnphcl.com",
+    "to": "kandarpa@phphcl.com",
+    "cc": "david.kern@pnphcl.com",
+    "subject": "OIDC support in safelinx",
+    "body": "Hi Kandarpa,\n\nCan we work on adding OIDC login support in safelinx. Lets work on initial POC for same and check the feasibility.\n\nThanks,\nManoj Kulkarni",
+    "date": "2025-08-11T12:47:17.116Z"
+  },
+  {
+    "from": "Manoj Kulkarni",
+    "fromEmail": "manoj.kulkarni@pnphcl.com",
+    "to": "atul.awasthi@pnphcl.com",
+    "cc": "david.kern@pnphcl.com",
+    "subject": "Passkey endpoints and Authenticator signals",
+    "body": "Hi Atul,\n\nWe need explore the passkey endpoints functionality and explore around the authenticator signal APIs.\nReply with the findings.\n\nThanks,\nManoj Kulkarni.",
+    "date": "2025-08-11T12:51:22.693Z"
+  }
+]
